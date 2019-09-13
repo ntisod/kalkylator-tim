@@ -1,0 +1,15 @@
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe.config
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\bin\Debug\Kalkylator.pdb
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csprojAssemblyReference.cache
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\MainWindow.g.cs
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\App.g.cs
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator_MarkupCompile.cache
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator_MarkupCompile.lref
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\MainWindow.baml
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.g.resources
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.Properties.Resources.resources
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.exe
+C:\Users\elev\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.pdb
